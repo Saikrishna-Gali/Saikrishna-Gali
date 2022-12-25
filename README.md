@@ -1,4 +1,4 @@
-![logo] (https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.linkedin.com%2Fin%2Fabhimanyu-mitra&psig=AOvVaw0kWmE0Ac8aWilc0folg2MO&ust=1672061254194000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMivpODvlPwCFQAAAAAdAAAAABAE)
+![logo] ()
 <h1 align="center">Hi 👋, I'm Saikrishna Gali</h1>
 <h3 align="center">A passionate Data/DevOps Engineer from India</h3> 
 <img align="right" width="450" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
